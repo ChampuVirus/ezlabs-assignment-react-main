@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EZ Labs – Front-End Intern Assignment (React + Vite + Tailwind)
 
 Production-ready single-page app that matches the brief:
@@ -50,3 +51,6 @@ npm run preview
 
 ## Postman collection
 Included as `EZ_Labs_Contact_Form.postman_collection.json` (import into Postman and hit Send).
+=======
+# ezlabs-assignment-react-main
+>>>>>>> f5f5a312924101de996a3a1252f192ab7988c751
